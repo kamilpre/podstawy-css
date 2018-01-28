@@ -5,3 +5,7 @@ body {
 p {
     background-color: aqua;
 }
+
+#selektor-po-id {
+	color: yellow;
+}
