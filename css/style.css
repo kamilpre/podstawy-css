@@ -3,7 +3,8 @@ body {
 }
 
 p {
-    background-color: aqua;
+    background-color: black;
+    color: white;
 }
 
 #selektor-po-id {
@@ -12,4 +13,12 @@ p {
 
 .selektor-po-klasie {
 	color: blueviolet;
+}
+
+#moniki p {
+	color: green;
+}
+
+#moniki > div > p {
+	color: grey;
 }
