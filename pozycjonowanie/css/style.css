@@ -25,11 +25,13 @@ div#kontener > div#drugi {
 div#kontener-abs {
     background-color: lightgreen;
     padding: 10px;
+    position: fixed;
+    top: 30px;
 }
 
 div#kontener-abs > div#pierwszy-abs {
     background-color: lightsalmon;
-    position: relative;
+    position: absolute;
     top: 40px;
     left: 70px;
 }
